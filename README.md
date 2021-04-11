@@ -7,3 +7,5 @@ In this task you are provided with two variables, quote and substring, which con
 3. Use a combination of the variables you have and available string properties/methods to trim down the original quote to "I do not like green eggs and ham.", and store it in a variable called revisedQuote.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Strings
+
+Live web: https://gitthuma.github.io/strings-2/
